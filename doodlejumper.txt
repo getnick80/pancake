@@ -1,2 +1,1 @@
 <iframe src="https://www.silvergames.com/en/doodle-jump/iframe" width="400" height="640" style="margin:0;padding:0;border:0"></iframe>
-<p style="text-align:center">More <a href="https://www.silvergames.com/en/t/iphone">iPhone Games</a> on Silvergames.com!</p>
